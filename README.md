@@ -1,4 +1,4 @@
-# ProShop eCommerce Platform
+# eCommerce Platform
 
 ## Features
 
